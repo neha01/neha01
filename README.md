@@ -3,7 +3,7 @@
 ## I'm a fulltime Software Engineer!
 
 - 🌱 I'm Currently learning Golang 😊 
-- ⛳In my spare time,I like to read books, specifically entrepreneur biographies and business related books and sometimes dabble in stock markets.
+- ⛳ In my spare time,I like to read books, specifically entrepreneur biographies and business related books and sometimes dabble in stock markets.
 
 ### Find me on web:
 
