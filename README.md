@@ -2,8 +2,13 @@
 
 ## I'm a fulltime Software Engineer!
 
+-  I have mostly worked as a Backend Engineer.
 - 🌱 I'm Currently learning Golang 😊 
-- ⛳ In my spare time,I like to read books, specifically entrepreneur biographies and business related books and sometimes dabble in stock markets.
+- 😌 In my spare time:
+    - I make [Youtube] videos 😊
+    - Like to read books, mostly entrepreneur biographies and business related 😊
+    - Sometimes dabble in stock markets 🙈
+- 👉 Reach me at neha.yadav.channel@gmail.com
 
 ### Find me on web:
 
