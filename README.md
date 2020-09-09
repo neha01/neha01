@@ -3,7 +3,7 @@
 ## I'm a fulltime Software Engineer!
 
 -  I have mostly worked as a Backend Engineer.
-- 🌱 I'm Currently learning Golang 😊 
+- 🌱 I'm Currently learning GoLang 😊 
 - 😌 In my spare time:
     - I make [Youtube] videos 😊
     - Like to read books, mostly entrepreneur biographies and business related 😊
