@@ -1,4 +1,4 @@
-### Hi there 👋I'm a fulltime Software Engineer!
+### Hi there 👋 I'm a fulltime Software Engineer!
 
 -  I have mostly worked as a Backend Engineer.
 - 🌱 I'm Currently learning GoLang 😊 
