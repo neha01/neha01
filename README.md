@@ -26,4 +26,4 @@
 <br />
 
 [youtube]: https://youtube.com/c/nehayadav1
-[instagram]: https://instagram.com/techyneha
+[instagram]: https://instagram.com/nehathinks
