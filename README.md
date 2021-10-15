@@ -16,7 +16,6 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />   
 </p>
 
-
 ### Find me on web:
 
   <!-- <a target="_blank" href="https://www.instagram.com/nehathinks/">Instagram</a> 
@@ -24,15 +23,10 @@
   <a target="_blank" href="https://www.youtube.com/channel/UC-StZX9oR9KCpOjaJdtJVmQ/">Youtube> 
   <a target="_blank" href="https://twitter.com/nehay01">Twitter</a> -->
 
-
 <a href="https://www.instagram.com/nehathinks" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.youtube.com/c/nehayadav1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
 <a href="https://www.youtube.com/channel/UC-StZX9oR9KCpOjaJdtJVmQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
 <a href="https://twitter.com/nehay01" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
-
-
-<br />
-<br />
 
 [Tech-Channel]: https://youtube.com/c/nehayadav1
 [Finance-Channel(Hindi)]: https://www.youtube.com/channel/UC-StZX9oR9KCpOjaJdtJVmQ
