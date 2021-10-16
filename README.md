@@ -5,7 +5,7 @@
 - In my spare time:
     - I make Youtube videos [Tech-Channel] & [Finance-Channel(Hindi)] <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     - Like to read books <img src="https://emojis.slackmojis.com/emojis/images/1588108671/8787/fb-hug.png?1588108671" width="30">
-    - Sometimes dabble in stock markets <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
+    - Sometimes dabble in Stock markets/ Cryptos <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="30">
 - 👉 Reach me at neha.yadav.channel@gmail.com
 
 ### Languages and Technologies:
