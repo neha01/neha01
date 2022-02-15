@@ -1,5 +1,4 @@
-### Hello Anon <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> 
-<p>I'm Neha, Working as a Backend Engineer</p>
+<p>Hello Anon <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> I'm Neha, Working as a Backend Engineer</p>
 
 - I'm Currently learning GoLang/ Defi/ NFT/ DAO <img src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868" width="30">
 - In my spare time:
