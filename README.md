@@ -10,10 +10,7 @@
 
 ### Languages and Technologies:
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=whitee" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />   
+  Golang, NodeJS, MongoDB, Postgres, MySQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, GCP  
 </p>
 
 ### Find me on web:
