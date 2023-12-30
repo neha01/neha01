@@ -1,6 +1,5 @@
 <p>Hello Anon <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> I'm Neha, Working as a Backend Engineer</p>
 
-- I'm Currently learning GoLang/ Defi/ NFT/ DAO <img src="https://emojis.slackmojis.com/emojis/images/1597609868/10096/laptop_parrot.gif?1597609868" width="30">
 - In my spare time:
     - I make Youtube videos [Tech-Channel] & [Finance-Channel(Hindi)] <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
     - Like to read books <img src="https://emojis.slackmojis.com/emojis/images/1588108671/8787/fb-hug.png?1588108671" width="30">
@@ -9,7 +8,7 @@
 
 ### Languages and Technologies:
 <p>
-  Golang, NodeJS, MongoDB, Postgres, MySQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, GCP  
+  Golang, NodeJS, MongoDB, Postgres, MySQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, GCP, Cassandra  
 </p>
 
 ### Find me on web:
