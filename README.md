@@ -8,7 +8,7 @@
 
 ### Languages and Technologies:
 <p>
-  Golang, NodeJS, MongoDB, Postgres, MySQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, GCP, Cassandra  
+  Go, NodeJS, MongoDB, Postgres, MySQL, Redis, RabbitMQ, Kafka, Docker, Kubernetes, GCP, Cassandra  
 </p>
 
 ### Find me on web:
